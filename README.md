@@ -2,7 +2,7 @@
 
 Python Implementation of Apriori Algorithm
 
-Given a set of transactions of the form
+Given a set of transactions of the format
 
 {item1, item2, item3, item4, ..., itemN1},
 
