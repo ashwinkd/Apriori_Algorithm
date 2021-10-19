@@ -23,4 +23,4 @@ Given a set of transactions of the format
 * Each Frequent itemset is potentially a future transaction.
 * Hence, output of MS Apriori Algorithm is similar to the format of the input transaction data. 
 * The output is sorted according to the itemset length, i.e. $N1 \ge N2 \ge . . . \ge NM$
-That is, MS Apriori algorithms produce itemsets of length 1 which lead to generation of itemsets of length 2. This generation terminates when longer itemsets are not possible to generate. This is true as smaller transactions may occur frequently as well in longer transactions. Thus shorter transactions are atleast as frequent as longer transactions.
+* That is, MS Apriori algorithms produce itemsets of length 1 which lead to generation of itemsets of length 2. This generation terminates when longer itemsets are not possible to generate. This is true as smaller transactions may occur frequently as well in longer transactions. Thus shorter transactions are atleast as frequent as longer transactions.
